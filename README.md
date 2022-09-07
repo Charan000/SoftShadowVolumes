@@ -9,4 +9,5 @@ Refer the [Report](https://github.com/Charan000/SoftShadowVolumes/blob/main/Soft
 
 ![alt text](https://github.com/Charan000/SoftShadowVolumes/blob/main/Shadows/images/test1.JPG?raw=true)
 <img src="https://github.com/Charan000/SoftShadowVolumes/blob/main/Shadows/images/test1.JPG" alt="Your image title" width="250"/>
+<img src="https://github.com/Charan000/SoftShadowVolumes/blob/main/Shadows/images/test2.JPG" alt="Your image title" width="250"/>
 ![alt text](https://github.com/Charan000/SoftShadowVolumes/blob/main/Shadows/images/test2.JPG?raw=true)
