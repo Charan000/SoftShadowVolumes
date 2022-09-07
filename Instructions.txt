@@ -1,0 +1,9 @@
+executable in bin.
+need to compile the code with visual studio
+Directx SDK and boost libraries needed
+
+R - Show/hide penumbra
+P - Stop/continue animation
++/- - Increase/decrease light size
+L - Show/hide second light
+Arrow keys, U, D - Move 2nd Light Source
