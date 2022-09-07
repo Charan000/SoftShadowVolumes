@@ -7,5 +7,5 @@
 
 Refer the [Report](https://github.com/Charan000/SoftShadowVolumes/blob/main/Soft%20Shadow%20Volumes.pdf) for additional details.
 
-![alt text](https://github.com/Charan000/SoftShadowVolumes/blob/main/Shadows/images/test1.JPG?raw=true)
+![alt text](https://github.com/Charan000/SoftShadowVolumes/blob/main/Shadows/images/test1.JPG | width=100)
 ![alt text](https://github.com/Charan000/SoftShadowVolumes/blob/main/Shadows/images/test2.JPG?raw=true)
