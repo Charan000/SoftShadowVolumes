@@ -5,4 +5,7 @@
 - The lighting calculations involved getting depth data and storing it in a ZTexture from the light source point of view, so that the umbra and penumbra regions can be differentiated. The coloring of penumbra region was done by non-linear alpha blending. 
 - Used the Direct3D library for rendering the output.
 
-Refer the [Report](https://github.com/raks097/Agent-Based-Modeling-And-Simulation-of-Drug-Resistant-Diseases-/blob/master/Report.pdf) for additional details.
+Refer the [Report](https://github.com/Charan000/SoftShadowVolumes/blob/main/Soft%20Shadow%20Volumes.pdf) for additional details.
+
+![alt text](https://github.com/Charan000/SoftShadowVolumes/blob/main/Shadows/images/test1.JPG?raw=true)
+![alt text](https://github.com/Charan000/SoftShadowVolumes/blob/main/Shadows/images/test2.JPG?raw=true)
